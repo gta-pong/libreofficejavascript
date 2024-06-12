@@ -2,7 +2,7 @@
 
 LibreOffice JavaScript Macros & Guides
 
-This repo was created for anyone looking to 
+This repo was created for anyone looking to <br/>
 a) Write LibreOffice macros in JavaScript<br/>
 b) Download the LibreOffice PDF guides from a faster server
 
@@ -22,4 +22,4 @@ The Universal Network Objects (UNO) API is the core component framework used in 
 
 ## Status:
 
-Will be uploading some of my basic & working macros soon. 
+Will be uploading some basic & working macros soon. 
