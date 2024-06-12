@@ -22,4 +22,4 @@ The Universal Network Objects (UNO) API is the core component framework used in 
 
 ## Status:
 
-Will be uploading some basic & working macros soon. 
+Will be uploading some working JS macros soon! 
