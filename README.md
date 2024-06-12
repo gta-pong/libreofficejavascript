@@ -3,7 +3,7 @@
 LibreOffice JavaScript Macros & Guides
 
 This repo was created for anyone looking to 
-a) Write LibreOffice macros in JavaScript
+a) Write LibreOffice macros in JavaScript<br/>
 b) Download the LibreOffice PDF guides from a faster server
 
 ## Focus:
@@ -17,7 +17,7 @@ LibreOffice ships with the Rhino engine (1.7R5; written in Java) to support Java
 The Universal Network Objects (UNO) API is the core component framework used in LibreOffice. It allows JS to interact with LibreOffice components.
 
 ## Resources:
-[UNO API Class List](https://api.libreoffice.org/docs/idl/ref/annotated.html) 
+[UNO API Class List](https://api.libreoffice.org/docs/idl/ref/annotated.html) <br/>
 [LibreOffice Developer's Guide: Chapter 18 - Scripting Framework - Writing Macros](https://wiki.documentfoundation.org/Documentation/DevGuide/Scripting_Framework#Writing_Macros)
 
 ## Status:
