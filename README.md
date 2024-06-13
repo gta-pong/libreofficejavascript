@@ -24,7 +24,7 @@ LibreOffice ships with the Rhino engine (1.7R5; written in Java) to support Java
 
 The Universal Network Objects (UNO) API is the core component framework used in LibreOffice. It allows JS to interact with LibreOffice components.
 
-## Resources:
+## Resources
 
 [UNO API Class List](https://api.libreoffice.org/docs/idl/ref/annotated.html) <br/>
 [LibreOffice Developer's Guide: Chapter 18 - Scripting Framework - Writing Macros](https://wiki.documentfoundation.org/Documentation/DevGuide/Scripting_Framework#Writing_Macros)
