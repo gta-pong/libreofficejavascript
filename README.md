@@ -1,10 +1,15 @@
-# LibreOffice JavaScript Macros & Guides
+# LibreOffice JavaScript Macros & Documentation
 
-LibreOffice JavaScript Macros & Guides
+## The Problem
+- Zero documentation for writing LibreOffice macros in JavaScript <br/>
+- Zero code samples of macros in JavaScript <br/>
+- Takes several hours to download the Guides from libreoffice.org
 
+## The Solution
 This repo was created for anyone looking to <br/>
 a) Write LibreOffice macros in JavaScript<br/>
-b) Download the LibreOffice PDF guides from a faster server
+b) Find, read, and contribute to a knowledgebase on LibreOffice macros in JavaScript
+c) Download the LibreOffice PDF guides from a faster server (Fastly - GitHub's CDN)
 
 ## Focus:
 
@@ -20,6 +25,21 @@ The Universal Network Objects (UNO) API is the core component framework used in 
 [UNO API Class List](https://api.libreoffice.org/docs/idl/ref/annotated.html) <br/>
 [LibreOffice Developer's Guide: Chapter 18 - Scripting Framework - Writing Macros](https://wiki.documentfoundation.org/Documentation/DevGuide/Scripting_Framework#Writing_Macros)
 
+## About: 
+
+I'm an intermediate dev and an intermediate Excel / LibreOffice user. So not all knowledge on here will be up to par with that of a CS grad or senior dev, thanks for working with me on this :)
+
 ## Status:
 
-Will be uploading some working JS macros soon! 
+Coming soon: </br>
+-working samples of some LibreOffice macros written in JavaScript
+-most recent Guides (PDFs) for LibreOffice: Calc, Writer, Base, Draw, Impress, Math, Getting Started, Quick Reference
+
+
+
+
+
+
+
+
+
